@@ -1,12 +1,12 @@
-#Single and multi select component using React/TypeScript
+# Single and multi select component using React/TypeScript
 
 Current application aim to demonstrate a select component using above mentioned technologies.
 
 Application also supports a keyboard commands such as:
 
-*Space - to invoke a menu with components to select
-*Arrow Up/Down - to move across list of components
-*Enter - to select component
+* Space - to invoke a menu with components to select
+* Arrow Up/Down - to move across list of components
+* Enter - to select component
 
 
 
